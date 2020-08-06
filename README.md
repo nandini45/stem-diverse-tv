@@ -9,7 +9,6 @@ STEM Diverse TV is a project which gather and provide inspiring, motivating, inf
 **Table of Contents**
 
 - [Setup and run](#setup-and-run)
-- [Run app](#run-app)
 - [Contributing](#contributing)
 - [Contact](#contact)
 - [License](#license)
